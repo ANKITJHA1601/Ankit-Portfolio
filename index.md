@@ -30,5 +30,11 @@ Tools Used: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ANKITJHA1601/Bike-sharing-Demand-Prediction)
 <center><img src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_15/2396566/180412-dallas-bike-share-se-157p.jpg"/></center>
 
+### Bank Credit & Risk Analyatics
+This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ANKITJHA1601/-Credit-Risk-Analyasis)
+<center><img src="https://raw.githubusercontent.com/ANKITJHA1601/Ankit-Portfolio/master/assets/images/How-Is-Data-Analytics-Used-in-Finance-and-Banking-Sector-1-1.jpg"/></center>
+
 
 
